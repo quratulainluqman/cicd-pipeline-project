@@ -201,8 +201,8 @@ git init
 Configured Git username and email:
 
 ```bash
-git config --global user.name "Quratulain Luqman"
-git config --global user.email "your-email@example.com"
+git config --global user.name "quratulainluqman"
+git config --global user.email "quratulain.luqman3com"
 ```
 
 ---
